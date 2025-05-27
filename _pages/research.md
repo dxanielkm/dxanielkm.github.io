@@ -16,7 +16,8 @@ First author on a manuscript modeling host-parasite coevolution, submitted to _E
 
 ## Autonomous Pathfinding System with Complex Robotic Constraints 
 *Simon Fraser University – Software Systems Capstone Project - Supervised by [Dr. Keval Vora](https://www.cs.sfu.ca/~keval/)
-Developed a multi-agent pathfinding system using A* and Dijkstra’s algorithms using ICTS algorithm. Implemented robotics constraints and unit testing using PyTest. Two semester long software capstone project. 
+
+Developed a multi-agent pathfinding system using A\* and Dijkstra’s algorithms using ICTS algorithm. Implemented robotics constraints and unit testing using PyTest. Two semester long software capstone project. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.sfu.ca/pdclab/mapf)
 

@@ -5,24 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-## Host-Parasite Coevolution Modeling  
-*Simon Fraser University – Supervised by [Dr. Ben Ashby](https://ecoevotheory.com)*  
-Led a project modeling evolutionary dynamics in host-parasite systems using stochastic simulations. Investigated how genetic diversity impacts virulence. Currently preparing a preprint.
+## Coevolutionary Cycling in Allele Frequencies and the Evolution of Virulence 
+*Simon Fraser University – Research Project - Supervised by [Dr. Ben Ashby](https://ecoevotheory.com)*  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dxanielkm)  
+First author on a manuscript modeling host-parasite coevolution, submitted to _Evolution_. Led a project modeling evolutionary dynamics in host-parasite systems using stochastic simulations. Investigated how coevolutionary cycling impacts virulence evolution. 
 
----
-
-## Autonomous Pathfinding System  
-*Simon Fraser University – Capstone Project*  
-Developed a multi-agent pathfinding system using A* and Dijkstra’s algorithms. Implemented robotics constraints and unit testing using PyTest. Presented to 50+ peers and faculty at Capstone Seminar.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dxanielkm/pathfinding-project)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dxanielkm/Ashby_and_Kim_2025)  
 
 ---
 
-## Aerial Object Detection with CNNs  
-*Independent Project – Supervised by Dr. XYZ*  
-Trained deep learning models on aerial imagery using PyTorch and Detectron2. Benchmarked results using COCO metrics, leveraging transfer learning and custom evaluation pipelines.
+## Autonomous Pathfinding System with Complex Robotic Constraints 
+*Simon Fraser University – Software Systems Capstone Project - Supervised by [Dr. Keval Vora](https://www.cs.sfu.ca/~keval/)
+Developed a multi-agent pathfinding system using A* and Dijkstra’s algorithms using ICTS algorithm. Implemented robotics constraints and unit testing using PyTest. Two semester long software capstone project. 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dxanielkm/aerial-object-detection)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.sfu.ca/pdclab/mapf)
+
+---
+
+## Voice AI Evaluation Software 
+*Simon Fraser University – Research Project - Supervised by [Dr. Nicholas Vincent](https://www.nickmvincent.com)*  

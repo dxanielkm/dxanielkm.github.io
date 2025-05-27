@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniel Kim | Mathematics & Computational Research"
+title: "Daniel Kim, Mathematics & Computational Research"
 author_profile: true
 redirect_from: 
   - /about/

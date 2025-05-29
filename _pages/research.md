@@ -11,6 +11,7 @@ author_profile: true
 First author on a manuscript modeling host-parasite coevolution, submitted to _Evolution_. Led a project modeling evolutionary dynamics in host-parasite systems using stochastic simulations. Investigated how coevolutionary cycling impacts virulence evolution. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dxanielkm/Ashby_and_Kim_2025)  
+[![DOI](https://img.shields.io/badge/Preprint-bioRxiv-orange)](https://www.biorxiv.org/content/10.1101/2025.05.22.655598v1)
 
 ---
 
